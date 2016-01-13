@@ -1,0 +1,63 @@
+body{
+     border:1px solid black;
+     margin:40px;
+     background:white;
+       
+}
+
+
+.head{
+        background:lightblue;
+        text-align:center;
+        font-size:30px;
+}
+.block{
+     background:lightblue;
+     font-size:large;
+     
+}
+
+.tab {
+  border:1px solid black;
+  width:50%;
+  border-collapse:collapse; 
+  height:50px;
+  
+}
+#row{
+  border:1px solid black;
+  width:50%;
+  border-collapse:collapse; 
+  height:50px;;
+  text-align:center;
+
+
+}
+td{
+   border:1px solid black;
+   border-collapse:collapse;
+}
+th{
+   border:1px solid black;
+   border-collapse:collapse;
+   background-color:#4caf50;
+}
+#row:hover{
+   background-color:orange;
+}
+
+    
+#lef{
+   text-align:left;
+}
+#rig{
+text-align:right;
+}
+
+
+
+
+
+
+
+
