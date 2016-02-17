@@ -1,0 +1,161 @@
+{
+  "basics": {
+    "name": "Surya Prakash Thota",
+    "label": "Developer",
+    "picture": "surya.jpg",
+    "email": "thotasuryaprakash246@gmail.com",
+    "phone": "+91 9553118466",
+    "website": "http://surya246.github.io/",
+    "summary": "Seeking a position that is both innovative and challenging with ample scope to apply and improve my technical skills.",
+    "location": {
+      "address": "Kukatpally",
+      "postalCode": "500 037",
+      "city": "Hyderabad",
+      "countryCode": "INDIA",
+      "region": "Telangana"
+    },
+    "profiles": [
+      {
+        "network": "Facebook",
+        "username": "thotasuryaprakash246@gmail.com",
+        "url": "http://www.facebook.com/suryaprakashthota"
+      },
+      {
+        "network": "google-plus",
+        "username": "thotasuryaprakash246@gmail.com",
+        "url": "https://plus.google.com/u/0/115308336882001927275/about"
+      },
+      {
+        "network": "Github",
+        "username": "surya246",
+        "url": "https://github.com/surya246"
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "JNTUK University",
+      "area": "Electrical & Electronics Engineering",
+      "studyType": "Master of Technology",
+      "startDate": "2013-08",
+      "endDate": "2015-12",
+      "gpa": "85%",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "JNTUK University",
+      "area": "Electrical & Electronics Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2009-06",
+      "endDate": "2013-05",
+      "gpa": "82%",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Board of Intermedaite",
+      "area": "MPC",
+      "studyType": "Intermediate",
+      "startDate": "2007-06",
+      "endDate": "2009-05",
+      "gpa": "90%",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "BORAD OF SECONDARY EDUACTION",
+      "area": "Higher Education",
+      "studyType": "SSC",
+      "startDate": "2006-06",
+      "endDate": "2007-04",
+      "gpa": "90%",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+	"jQuery",
+	"Bootstrap"
+      ]
+    },
+    {
+      "name": "Programming languages",
+      "level": "",
+      "keywords": [
+	"C",
+        "C++",
+        "Embedded C", 
+	"Java"
+      ]
+    },
+    {
+      "name": "DBMS",
+      "level": "",
+      "keywords": [
+	"MySQL"
+      ]
+    },
+    {
+      "name": "Software packages",
+      "level": "",
+      "keywords": [
+	
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+	"MAT Lab",
+        "Embedded C"
+       ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": [
+	"Windows",
+        "Linux"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Good"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Telugu",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports,Coding",
+      "keywords": [
+        
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": ""
+    }
+  ]
+}
