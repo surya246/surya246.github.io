@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Surya Prakash Thota",
-    "label": "Developer",
+    "label": "Software Engineer",
     "picture": "surya.jpg",
     "email": "thotasuryaprakash246@gmail.com",
     "phone": "+91 9553118466",
     "website": "http://surya246.github.io/",
-    "summary": "Seeking a position that is both innovative and challenging with ample scope to apply and improve my technical skills.",
+    "summary": "Seeking a position in both innovative and challenging with ample scope to apply and improve my technical skills as well as growth of the Organisation.",
     "location": {
       "address": "Kukatpally",
       "postalCode": "500 037",
@@ -23,7 +23,7 @@
       {
         "network": "google-plus",
         "username": "thotasuryaprakash246@gmail.com",
-        "url": "https://plus.google.com/u/0/115308336882001927275/about"
+        "url": "https://plus.google.com/u/0/115308336882001927275/"
       },
       {
         "network": "Github",
@@ -41,7 +41,7 @@
       "studyType": "Master of Technology",
       "startDate": "2013-08",
       "endDate": "2015-12",
-      "gpa": "85%",
+      "gpa": "8.5",
       "courses": [
       ]
     },
@@ -51,27 +51,27 @@
       "studyType": "Bachelor of Technology",
       "startDate": "2009-06",
       "endDate": "2013-05",
-      "gpa": "82%",
+      "gpa": "8.2",
       "courses": [
       ]
     },
     {
-      "institution": "Board of Intermedaite",
+      "institution": "Board of Intermediate",
       "area": "MPC",
       "studyType": "Intermediate",
       "startDate": "2007-06",
       "endDate": "2009-05",
-      "gpa": "90%",
+      "gpa": "9.0",
       "courses": [
       ]
     },
     {
-      "institution": "BORAD OF SECONDARY EDUACTION",
+      "institution": "Board of Secondary Education",
       "area": "Higher Education",
       "studyType": "SSC",
       "startDate": "2006-06",
       "endDate": "2007-04",
-      "gpa": "90%",
+      "gpa": "9.0",
       "courses": [
       ]
     }
@@ -83,11 +83,11 @@
       "name": "Web Development",
       "level": "",
       "keywords": [
-        "HTML",
-        "CSS",
+        "HTML/CSS",
+        "Bootstrap",
         "Javascript",
-	"jQuery",
-	"Bootstrap"
+	"jQuery"
+	
       ]
     },
     {
@@ -101,19 +101,13 @@
       ]
     },
     {
-      "name": "DBMS",
+      "name": "Database",
       "level": "",
       "keywords": [
 	"MySQL"
       ]
     },
-    {
-      "name": "Software packages",
-      "level": "",
-      "keywords": [
-	
-      ]
-    },
+   
     {
       "name": "Tools",
       "level": "",
@@ -147,15 +141,17 @@
   ],
   "interests": [
     {
-      "name": "Sports,Coding",
+      "name": "Browsing",
       "keywords": [
+" Coding"
+
         
       ]
     }
   ],
   "references": [
-    {
-      "name": ""
-    }
+    
+      
+    
   ]
 }
