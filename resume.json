@@ -6,7 +6,7 @@
     "email": "thotasuryaprakash246@gmail.com",
     "phone": "+91 9553118466",
     "website": "http://surya246.github.io/",
-    "summary": "Seeking a position in both innovative and challenging with ample scope to apply and improve my technical skills as well as growth of the Organisation.",
+    "summary": "Almost one year  experience in software development. Excellent Interpersonal skills, outstanding problem solving and decision making skills.",
     "location": {
       "address": "Kukatpally",
       "postalCode": "500 037",
@@ -87,8 +87,7 @@
         "Bootstrap",
         "Javascript",
 	"jQuery"
-	
-      ]
+	]
     },
     {
       "name": "Programming languages",
@@ -97,7 +96,10 @@
 	"C",
         "C++",
         "Embedded C", 
-	"Java"
+	"Java",
+	"PHP & Laravel",
+	"Drupal7",
+	"Angular JS"
       ]
     },
     {
@@ -143,7 +145,17 @@
     {
       "name": "Browsing",
       "keywords": [
-" Coding"
+	"Coding"
+
+        
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "name": "Neobric IT SOlutions Pvt Ltd",
+      "keywords": [
+	"Currently associated with Neobric as Software Engineer"
 
         
       ]
