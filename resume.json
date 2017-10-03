@@ -97,9 +97,10 @@
         "C++",
         "Embedded C", 
 	"Java",
-	"PHP & Laravel",
-	"Drupal7",
-	"Angular JS"
+	"PHP & Laravel(Basics)",
+	"Drupal7(Basics)",
+	"Angular JS",
+     	"angular2"
       ]
     },
     {
